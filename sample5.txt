@@ -1,0 +1,213 @@
+23 // line 1
+9
+23 // line 2
+34
+23 //line 3
+81
+23 //line 4
+122
+50
+1 //load 7 LINE 1
+7
+27 //push
+23 //call spaces
+155
+28 //remove params
+1 //load carrot 
+94 
+9
+2 //print
+1 //load 5 dots
+5
+27 //push
+23 //call dot function
+169
+28 //remove param
+1 //load carrot
+94
+9
+2
+1 //load newline
+10
+9
+2
+24
+1 //load 6 LINE 2
+6
+27 //push
+23 //call space fun
+155
+28 //remove param
+1 //load /
+47
+9
+2 //print
+1
+32
+9
+2
+1
+32
+9
+2 //print 2 spaces
+1 //load o
+111
+9
+2 //print
+1 // load ,
+44
+9
+2
+1
+111
+9
+2 //print other o
+1
+32
+9
+2
+1
+32
+9
+2 //print 2 spaces
+1 //load \
+92
+9
+2 //print
+1
+10
+9
+2 //print new line
+24
+1 //load 6 LINE 3
+6
+27 //push
+23 //call space func
+155
+28 //remove params
+1 //load |
+124
+9 
+2 //print 
+1 //load }
+125
+9
+2 //print
+1 //load space
+32
+9
+2
+1 //load 3
+3
+27 //push
+23 //call colon func
+183
+28 //remove params
+1 //load space
+32
+9
+2
+1 //load {
+123
+9
+2
+1 //load |
+124
+9
+2
+1 //load new line
+10
+9
+2
+24 //END LINE 3
+1 //load 5 LINE 4
+5
+27 //push
+23 //call spaces
+155
+28 //remove param
+1 //load 3
+3
+27 //push
+23 //call = function
+197
+28 //remove param
+1 //load w
+119
+9
+2 //print
+1 //load 3
+3
+27
+23 //cal = func
+197
+28 //remove param 
+1 //load w
+119 
+9
+2
+1 //load 3
+3
+27 //push
+23 //call - func
+197
+28 //remove param
+24 //END LINE 4
+1 //load 1 SPACE FUNCTION
+1
+14
+6
+14
+1
+32
+9
+2
+26
+15
+22
+160
+24
+1 //DOT FUNCTION
+1
+14
+6
+14
+1
+46
+9
+2
+26
+15
+22
+174
+24
+1 //COLON FUNCTION
+1 
+14
+6
+14
+1
+58
+9
+2
+26
+15
+22
+188
+24
+1 //= function
+1
+14
+6
+14
+1
+61
+9
+2
+26
+15
+22
+202
+24
+.1000
+30
