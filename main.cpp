@@ -1,6 +1,3 @@
-//Danielle Rubio
-//CS 4348
-//Project 1
 #include <iostream>
 #include <sstream>
 #include <cstring>
